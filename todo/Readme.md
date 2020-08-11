@@ -8,3 +8,7 @@ Features:
 Technology stack
 - python 3.6
 - django 3.0
+
+
+Database-
+  - postgresql
